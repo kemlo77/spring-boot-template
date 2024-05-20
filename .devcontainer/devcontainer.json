@@ -23,7 +23,7 @@
 	"customizations": {
         "vscode": {
             "extensions": [
-                "GitHub.codepilot",
+                "GitHub.copilot",
                 "GitHub.copilot-chat"
             ]
         }
